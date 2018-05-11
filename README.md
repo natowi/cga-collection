@@ -2,12 +2,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
-	<title></title>
-	<style type="text/css">
-		@page { margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 120% }
-		a:link { so-language: zxx }
-	</style>
 </head>
 <body lang="en-EN" dir="ltr">
 <p style="margin-bottom: 0cm; line-height: 100%"># cga-collection</p>
