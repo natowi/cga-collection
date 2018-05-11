@@ -79,15 +79,6 @@ data-driven design to support large-scale scenario planning projects
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%">Tutorials:</p>
-<p style="margin-bottom: 0cm; line-height: 100%">Creating 3D Models
-in CityEngine in San Juan County,
-Washington<br/>
-<a href="https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org">https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org</a><br/>
-<a href="https://github.com/SJCGIS/Esri-CityEngine-tutorial">https://github.com/SJCGIS/Esri-CityEngine-tutorial</a></p>
-<p style="margin-bottom: 0cm; line-height: 100%"><br/>
-
-</p>
 <p style="margin-bottom: 0cm; line-height: 100%">Mapping birth
 rates<br/>
 <a href="https://github.com/Lesrac/ivis_cityengine">https://github.com/Lesrac/ivis_cityengine</a></p>
@@ -104,6 +95,19 @@ Examples<br/>
 <a href="https://github.com/Esri/esri-cityengine-sdk">https://github.com/Esri/esri-cityengine-sdk</a><br/>
 <br/>
 <br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">Tutorials:</p>
+<p style="margin-bottom: 0cm; line-height: 100%">Creating 3D Models
+in CityEngine in San Juan County,
+Washington<br/>
+<a href="https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org">https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org</a><br/>
+<a href="https://github.com/SJCGIS/Esri-CityEngine-tutorial">https://github.com/SJCGIS/Esri-CityEngine-tutorial</a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+<a href="https://www.ronenbekerman.com/making-favela/">https://www.ronenbekerman.com/making-favela/</a></p>
+
+
 <u><b>Plugins/Parser/Wrapper:</b></u></p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
