@@ -1,4 +1,4 @@
-List of CityEngine papers
+List of CityEngine texts
 
 # Campus 3D
 [FIN] Bachelor Thesis: Campus 3D (2014)
