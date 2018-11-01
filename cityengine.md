@@ -29,7 +29,8 @@ https://explore.openaire.eu/search/publication?articleId=od______1437::effd8e42a
 
 
 # Archaeology
-Actually one of the best books on CityEngine I am aware of: C. Piccoli 2018. Visualizing cityscapes of Classical antiquity: From early modern reconstruction drawings to 3D digital 3D models http://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7b3E4846F9-77FD-4A15-A264-24267D731E58%7d
+Enhancing Koroneia’s GIS survey data with the third dimension: 
+A procedural modelling approach in: C. Piccoli 2018. Visualizing cityscapes of Classical antiquity: From early modern reconstruction drawings to 3D digital 3D models (p.225) http://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7b3E4846F9-77FD-4A15-A264-24267D731E58%7d
 
 Reconstrução digital de espaços históricos: o caso de estudo de Mértola virtual
 Carvalho, Alexandre António de (2016)
