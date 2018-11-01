@@ -25,8 +25,7 @@ GIS-driven
 symbology of survey finds and (late) Classical Greek
 architecture<br/>
 <a href="https://github.com/cpiccoli/rules">https://github.com/cpiccoli/rules</a>
-
-Actually the only book on CityEngine I am aware of: C. Piccoli 2018.<a href="http://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7b3E4846F9-77FD-4A15-A264-24267D731E58%7d"> *Visualizing cityscapes of Classical antiquity: From early modern reconstruction drawings to 3D digital 3D models*</a>
+C. Piccoli 2018.<a href="http://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7b3E4846F9-77FD-4A15-A264-24267D731E58%7d"> *Visualizing cityscapes of Classical antiquity: From early modern reconstruction drawings to 3D digital 3D models*</a>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 </p>
