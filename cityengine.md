@@ -147,5 +147,24 @@ Tuncer, Betül (2009)
 https://polen.itu.edu.tr/bitstream/11527/692/1/9845.pdf
 https://explore.openaire.eu/search/publication?articleId=od______1722::eabe3955757c687804126ba24fd3ed96
 
+Three-Dimensional Rule-Based City Modelling to
+Support Urban Redevelopment Process
+https://www.mdpi.com/2220-9964/7/10/413/pdf
 
+The ‘Urban Elements’ method for teaching parametric urbandesign to professionals
+https://decodingspaces-toolbox.org/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=2191524&key=ATGV69AT&content_type=application/pdf
+
+3D-Anwendungen in der Verwaltung
+gva.bs.ch/dam/jcr:323e36a9-8a58-4d22-8515-5b527f240b03/3D-Anwendungen.pdf
+
+Prozedurale Verfahren zur Generierung von 3D-Infrastrukturobjekten 
+http://mediatum.ub.tum.de/doc/1293374/555353.pdf
+
+# Learning 
+
+CityEngine Scripting
+http://wiki.bk.tudelft.nl/toi-pedia/CityEngine_Scripting
+
+Construct realistic 3D view of a scene
+https://downloads.esri.com/LearnArcGIS/3d/construct-realistic-3d-view-of-a-scene.pdf
 
