@@ -168,3 +168,17 @@ http://wiki.bk.tudelft.nl/toi-pedia/CityEngine_Scripting
 Construct realistic 3D view of a scene
 https://downloads.esri.com/LearnArcGIS/3d/construct-realistic-3d-view-of-a-scene.pdf
 
+CGA Guide
+http://desktop.arcgis.com/en/cityengine/latest/cga/cityengine-cga-introduction.htm
+
+Tutorials
+http://desktop.arcgis.com/en/cityengine/latest/tutorials/introduction-to-the-cityengine-tutorials.htm
+
+Get started
+http://desktop.arcgis.com/en/cityengine/latest/get-started/cityengine-get-started.htm
+
+Help
+https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/toc.html
+
+CityEngine Tv
+https://www.youtube.com/user/CityEngineTV/featured
