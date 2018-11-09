@@ -182,3 +182,12 @@ https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/htm
 
 CityEngine Tv
 https://www.youtube.com/user/CityEngineTV/featured
+
+
+----
+
+https://www.esri.com/arcgis-blog/products/city-engine/3d-gis/palladio-open-source-cityengine-plugin-for-houdini/
+https://github.com/Esri/palladio/blob/master/doc/examples.md
+https://github.com/Esri/palladio/blob/master/doc/build.md
+https://github.com/Esri/palladio/blob/master/doc/usage.md
+http://desktop.arcgis.com/en/cityengine/latest/tutorials/tutorial-19-vfx-workflows-with-alembic.htm
