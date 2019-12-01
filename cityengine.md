@@ -199,3 +199,28 @@ https://github.com/Esri/palladio/blob/master/doc/examples.md
 https://github.com/Esri/palladio/blob/master/doc/build.md
 https://github.com/Esri/palladio/blob/master/doc/usage.md
 http://desktop.arcgis.com/en/cityengine/latest/tutorials/tutorial-19-vfx-workflows-with-alembic.htm
+
+**unsorted**
+
+https://knepublishing.com/index.php/KnE-Social/article/download/5552/10858
+
+en Enhancing Sustainable Development through Web Based 3D Smart City Model Using GIS and BIM. Case Study: Sheikh Hamad City https://www.scirp.org/pdf/JGIS_2019061715231374.pdf
+
+ΔΙΕΡΕΥΝΗΣΗ ΤΩΝ ΔΥΝΑΤΟΤΗΤΩΝ ΑΞΙΟΠΟΙΗΣΗΣ ΤΟΥ ΜΕΣΑΙΩΝΙΚΟΥ ΚΑΣΤΡΟΥ ΤΗΣ ΑΡΤΑΣ ΜΕ ΤΡΙΣΔΙΑΣΤΑΤΗ ΜΟΝΤΕΛΟΠΟΙΗΣΗ (EXPLORING THREE-DIMENSIONAL MODELLING OPPORTUNITIES OF ARTA'S MEDITERRANEAN CASTLE) https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/48846/%CE%94%CE%99%CE%A0%CE%9B%CE%A9%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%97%20%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91%20-%20%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%9F%CE%A0%CE%9F%CE%A5%CE%9B%CE%9F%CE%A5%20%CE%92%CE%91%CE%A3%CE%99%CE%9B%CE%99%CE%9A%CE%97.pdf?sequence=1&isAllowed=y
+
+TownSim: Agent-based city evolution for naturalistic roadnetwork generation
+https://www.pcgworkshop.com/wp-content/uploads/2019/08/PCG2019_paper_7.pdf
+
+Neural Turtle Graphics for Modeling City Road Layouts
+https://arxiv.org/pdf/1910.02055.pdf
+
+Kentsel Dönüşüm Alanlarının Geotasarım Yöntemi ile Planlanması: Eyyübiye Örneği
+https://dergipark.org.tr/tr/download/article-file/623076
+
+Geovisualization geoscience of large riverfloodplains
+https://www.tandfonline.com/doi/pdf/10.1080/17445647.2019.1584129
+
+3D BIM-GIS for underground network management
+https://library.itc.utwente.nl/papers_2019/msc/la/nie.pdf
+
+Erzeugung von 3D-Gebäudemodellen zur energetischen Simulation https://mobile.hft-stuttgart.de/Studienbereiche/Vermessung/Bachelor-Vermessung-Geoinformatik/Aktuell/Veranstaltungen/esri2019/esri2019_padsala-wuerstle.pdf
