@@ -1,6 +1,6 @@
-
-
 # cga-collection
+
+For publications check cityengine.md
 
 **Projects**
 
@@ -11,19 +11,15 @@ https://github.com/MjStrwy/RiverfrontVR_VRTK
 A library of procedural rules for creating Greek and Roman architecture and cities
 https://github.com/mariegsaldana/Roman-City-Ruleset
 
-
 GIS-driven symbology of survey finds and (late) Classical Greek architecture
 https://github.com/cpiccoli/rules C. Piccoli 2018. *Visualizing cityscapes of Classical antiquity: From early modern reconstruction drawings to 3D digital 3D models* http://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7b3E4846F9-77FD-4A15-A264-24267D731E58%7d
-
 
 A collection of useful City Engine CGA files: extrude buildings based on zoning heights
 https://github.com/Bledder/CityEngineCGARuleFiles
 https://github.com/Bledder/Philadelphia_Extrusion_CGA_CityEngine
 
-
 Simple set of functions to calculate standard statistics within CityEngine
 https://github.com/Holisticnature/cga-stats
-
 
 Updated repository for a modified version of the ESRI Complete Street Rule
 https://github.com/Holisticnature/Complete_Street_Rule
@@ -36,14 +32,11 @@ https://github.com/hjx1996/Cityengine
 
 https://github.com/jbdong/CityEngine_cga
 
-
 Simple cga and tool and measureStreetLength3.py
 https://github.com/GD3Duk/cityengine
 
-
 Examples of using python scripts in CityEngine for animations
 https://github.com/BlakeHarcourt/Animated_CE
-
 
 London-CityEngine-Examples
 https://github.com/twak/London-CityEngine-Examples
@@ -54,12 +47,24 @@ https://github.com/urschrei/CityEngine-Twitter
 CityEngineToolKit-GeodesignToolkit: data-driven design to support large-scale scenario planning projects
 https://github.com/Holisticnature/geodesign-toolkit-gis-cityengine-integration-tools
 
-
 Mapping birth rates
 https://github.com/Lesrac/ivis_cityengine
 
 Esri CityEngine SDK Examples
 https://github.com/Esri/esri-cityengine-sdk
+
+CE-Rules
+
+https://github.com/gostefan/CE-Rules
+
+Arteries UE4 blueprint
+
+https://github.com/fullike/Arteries
+
+MMK Driving Simulator
+
+https://github.com/zhechkoz/MMK
+
 
 
 **Tutorials**
@@ -105,15 +110,3 @@ https://github.com/yoskiytip/Maya-Building-Wizard
 CityEngine Maya
 
 https://github.com/Esri/serlio
-
-CE-Rules
-
-https://github.com/gostefan/CE-Rules
-
-Arteries UE4 blueprint
-
-https://github.com/fullike/Arteries
-
-MMK Driving Simulator
-
-https://github.com/zhechkoz/MMK
