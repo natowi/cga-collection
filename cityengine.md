@@ -81,6 +81,11 @@ https://explore.openaire.eu/search/publication?articleId=copernicuspu::d3d06ea7e
 
 # general
 
+[EN]Lightweight Semiautomatic City Engine Systems: A Specific Case of Urban Induction Theory by Robert Ward
+Generative urban design is an emerging field which seeks to apply a procedural
+algorithm to grow urban forms parametrically
+https://knepublishing.com/index.php/KnE-Social/article/download/5552/10858
+
 Procedural Approach for 3D Modeling of City Buildings
 Zhu , Wenhua ; Wang , Dexian ; Eynard , Benoit ; Bricogne , Matthieu ; Remy , Sebastien (2015)
 [Restricted] https://link.springer.com/chapter/10.1007%2F978-3-319-33111-9_13
