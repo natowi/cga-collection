@@ -23,9 +23,7 @@ https://github.com/Holisticnature/cga-stats
 
 Updated repository for a modified version of the ESRI Complete Street Rule
 https://github.com/Holisticnature/Complete_Street_Rule
-
 https://community.esri.com/docs/DOC-6915
-
 
 Cityengine original CGA backup
 https://github.com/hjx1996/Cityengine
@@ -54,18 +52,13 @@ Esri CityEngine SDK Examples
 https://github.com/Esri/esri-cityengine-sdk
 
 CE-Rules
-
 https://github.com/gostefan/CE-Rules
 
 Arteries UE4 blueprint
-
 https://github.com/fullike/Arteries
 
 MMK Driving Simulator
-
 https://github.com/zhechkoz/MMK
-
-
 
 **Tutorials**
 
@@ -73,9 +66,8 @@ Creating 3D Models in CityEngine in San Juan County, Washington
 https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org
 https://github.com/SJCGIS/Esri-CityEngine-tutorial
 
-
-https://www.ronenbekerman.com/making-favela/
 CityEngine Experiments
+https://www.ronenbekerman.com/making-favela/
 
 **Plugins/Parser/Wrapper**
 
@@ -86,9 +78,7 @@ Python parser for CityEngine CGA rule file
 https://github.com/gaspardzoss/cga-parser
 
 A javascript parser, processor and visualiser for the ESRI CGA Grammar language
-
 https://github.com/gromgull/cgajs
-
 https://gromgull.github.io/cgajs/
 
 Palladio is a plugin for SideFX Houdini.
@@ -98,7 +88,6 @@ BCGA (Computer Generated Architecture for Blender)
 https://github.com/vvoovv/bcga
 
 CGA translator for Rhino 5
-
 https://github.com/caglaraydin/CGATranslator
 
 CE to Vissim
@@ -108,5 +97,4 @@ Maya-Building-Wizard (inspired by CE)
 https://github.com/yoskiytip/Maya-Building-Wizard
 
 CityEngine Maya
-
 https://github.com/Esri/serlio
