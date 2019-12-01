@@ -81,12 +81,15 @@ https://explore.openaire.eu/search/publication?articleId=copernicuspu::d3d06ea7e
 
 # general
 
-[EN]Lightweight Semiautomatic City Engine Systems: A Specific Case of Urban Induction Theory by Robert Ward
+[EN] SIMULATING, RECONSTRUCTING, AND ROUTING METROPOLITAN-SCALE TRAFFIC by David Wilkie
+https://cdr.lib.unc.edu/downloads/4b29b692z
+
+[EN] Lightweight Semiautomatic City Engine Systems: A Specific Case of Urban Induction Theory by Robert Ward
 Generative urban design is an emerging field which seeks to apply a procedural
 algorithm to grow urban forms parametrically
 https://knepublishing.com/index.php/KnE-Social/article/download/5552/10858
 
-Procedural Approach for 3D Modeling of City Buildings
+[EN] Procedural Approach for 3D Modeling of City Buildings
 Zhu , Wenhua ; Wang , Dexian ; Eynard , Benoit ; Bricogne , Matthieu ; Remy , Sebastien (2015)
 [Restricted] https://link.springer.com/chapter/10.1007%2F978-3-319-33111-9_13
 https://explore.openaire.eu/search/publication?articleId=dedup_wf_001::861a02bf42aaa25152941b3831bdef53
@@ -107,62 +110,62 @@ Mazur, Dominik (2018)
 https://dspace.cuni.cz/bitstream/handle/20.500.11956/99278/130228271.pdf?sequence=1&isAllowed=y
 https://explore.openaire.eu/search/publication?articleId=od______2186::11c807f3a4e6e268f44df33895069b78
 
-A ROADMAP FOR GENERATING SEMANTICALLY ENRICHED BUILDING MODELS ACCORDING TO CITYGML MODEL VIA TWO DIFFERENT METHODOLOGIES
+[EN] A ROADMAP FOR GENERATING SEMANTICALLY ENRICHED BUILDING MODELS ACCORDING TO CITYGML MODEL VIA TWO DIFFERENT METHODOLOGIES
 Floros, G. ; Solou, D. ; Pispidikis, I. ; Dimopoulou, E. (2016)
 https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W2/23/2016/isprs-archives-XLII-2-W2-23-2016.pdf
 https://explore.openaire.eu/search/publication?articleId=copernicuspu::21d0760f4f44d9d58f99ad70b6002797
 
-Modelagem procedural de cidades via algoritmo de colonização de espaço
+[ES]Modelagem procedural de cidades via algoritmo de colonização de espaço
 Barreto Vila Nova, Arnaldo (2010)
 https://repositorio.ufpe.br/bitstream/123456789/2152/1/arquivo2123_1.pdf
 https://explore.openaire.eu/search/publication?articleId=dedup_wf_001::07c45c48b1eabe527eb7139755d475aa
 
-Processing semantic information from procedural modelling rules for driving simulation
+[EN] Processing semantic information from procedural modelling rules for driving simulation
 Braun, Daniel (2014) 
 https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/25471/1/BA_Daniel_Braun_Print.pdf
 https://explore.openaire.eu/search/publication?articleId=od_______286::0685ff9a3a3a4642f074b0bc07474f33
 
-Image based 3D city modeling : Comparative study
+[EN] Image based 3D city modeling : Comparative study
 Singh, S.P. ; Jain, K. ; Mandla, V.R. (2014)
 https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5/537/2014/isprsarchives-XL-5-537-2014.pdf
 https://explore.openaire.eu/search/publication?articleId=dedup_wf_001::beb3b487be832260d26e4159bb72fa48
 
-Využití procedurálního jazyka v procesu modelování bloků městské zástavby
+[CZ] Využití procedurálního jazyka v procesu modelování bloků městské zástavby
 Koucká, Lucie (2015)
 https://dspace.cuni.cz/bitstream/handle/20.500.11956/81207/DPTX_2012_1_11310_0_357154_0_132440.pdf?sequence=1&isAllowed=y
 https://explore.openaire.eu/search/publication?articleId=od______2186::983e9cfcbb12c2e8f25a61db2fc5ae77
 
-Public Participation Using 3D Web-Based City Models: Opportunities for E-participation in Kisumu, Kenya
+[EN] Public Participation Using 3D Web-Based City Models: Opportunities for E-participation in Kisumu, Kenya
 Koeva, Mila ; Onyimbi, Jacob ; Flacke, Johannes 
 https://www.preprints.org/manuscript/201808.0513/v1/download
 https://explore.openaire.eu/search/publication?articleId=sharePrprorg::dde28eb97001f64720e639c4dedd7de8
 
-[Fin] Asemakaavojen havainnollistamisen kehittäminen
+[FI] Asemakaavojen havainnollistamisen kehittäminen
 Ylimäki, Jani (2018)
 http://www.theseus.fi/bitstream/handle/10024/153064/ylimaki_jani.pdf?sequence=1&isAllowed=y
 https://explore.openaire.eu/search/publication?articleId=od______1319::8c97272f98dc15720a7ac162b737d452
 
-INTERACTIVE 3D LANDSCAPES ON LINE
+[EN] INTERACTIVE 3D LANDSCAPES ON LINE
 Fanini, B. ; Calori, L. ; Ferdani, D. ; Pescarin, S. (2012)
 https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXVIII-5-W16/453/2011/isprsarchives-XXXVIII-5-W16-453-2011.pdf
 https://explore.openaire.eu/search/publication?articleId=copernicuspu::3d90c486cd856277652bf1bb0953d03a
 
-Şehir Planlaması Tasarımı için Yansıtıcı
+[TK] Şehir Planlaması Tasarımı için Yansıtıcı
 Tuncer, Betül (2009)
 https://polen.itu.edu.tr/bitstream/11527/692/1/9845.pdf
 https://explore.openaire.eu/search/publication?articleId=od______1722::eabe3955757c687804126ba24fd3ed96
 
-Three-Dimensional Rule-Based City Modelling to
+[EN] Three-Dimensional Rule-Based City Modelling to
 Support Urban Redevelopment Process
 https://www.mdpi.com/2220-9964/7/10/413/pdf
 
-The ‘Urban Elements’ method for teaching parametric urbandesign to professionals
+[EN] The ‘Urban Elements’ method for teaching parametric urbandesign to professionals
 https://decodingspaces-toolbox.org/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=2191524&key=ATGV69AT&content_type=application/pdf
 
-3D-Anwendungen in der Verwaltung
+[DE] 3D-Anwendungen in der Verwaltung
 gva.bs.ch/dam/jcr:323e36a9-8a58-4d22-8515-5b527f240b03/3D-Anwendungen.pdf
 
-Prozedurale Verfahren zur Generierung von 3D-Infrastrukturobjekten 
+[DE] Prozedurale Verfahren zur Generierung von 3D-Infrastrukturobjekten 
 http://mediatum.ub.tum.de/doc/1293374/555353.pdf
 
 # Learning 
