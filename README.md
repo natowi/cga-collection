@@ -15,8 +15,7 @@ sites<br/>
 <a href="https://github.com/MjStrwy/RiverfrontParkVR">https://github.com/MjStrwy/RiverfrontParkVR</a><br/>
 <a href="https://github.com/MjStrwy/RiverfrontVR_VRTK">https://github.com/MjStrwy/RiverfrontVR_VRTK</a><br/>
 
-A
-library of procedural rules for creating Greek and Roman architecture
+A library of procedural rules for creating Greek and Roman architecture
 and cities<br/>
 <a href="https://github.com/mariegsaldana/Roman-City-Ruleset">https://github.com/mariegsaldana/Roman-City-Ruleset</a><br/>
 
