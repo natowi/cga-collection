@@ -2,9 +2,7 @@
 
 # cga-collection
 
-
-
-Projects:
+**Projects**
 
 Demo workflow for creating 3D models of historical and archaeological sites
 https://github.com/MjStrwy/RiverfrontParkVR
@@ -64,7 +62,7 @@ Esri CityEngine SDK Examples
 https://github.com/Esri/esri-cityengine-sdk
 
 
-Tutorials:
+**Tutorials**
 
 Creating 3D Models in CityEngine in San Juan County, Washington
 https://github.com/SJCGIS/Esri-CityEngine-tutorial/blob/master/index.org
@@ -74,16 +72,13 @@ https://github.com/SJCGIS/Esri-CityEngine-tutorial
 https://www.ronenbekerman.com/making-favela/
 CityEngine Experiments
 
-Plugins/Parser/Wrapper:
-
+**Plugins/Parser/Wrapper**
 
 Paiga - (pai·ga) A Python Wrapper for CityEngine's Computer Generated Architecture
 https://github.com/chy/paiga
 
-
 Python parser for CityEngine CGA rule file
 https://github.com/gaspardzoss/cga-parser
-
 
 A javascript parser, processor and visualiser for the ESRI CGA Grammar language
 
@@ -94,19 +89,15 @@ https://gromgull.github.io/cgajs/
 Palladio is a plugin for SideFX Houdini.
 https://github.com/Esri/palladio
 
-
 BCGA (Computer Generated Architecture for Blender)
 https://github.com/vvoovv/bcga
-
 
 CGA translator for Rhino 5
 
 https://github.com/caglaraydin/CGATranslator
 
-
 CE to Vissim
 https://github.com/mohsennazemi/CityEngine
-
 
 Maya-Building-Wizard (inspired by CE)
 https://github.com/yoskiytip/Maya-Building-Wizard
