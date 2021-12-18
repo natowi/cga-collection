@@ -81,6 +81,9 @@ https://explore.openaire.eu/search/publication?articleId=copernicuspu::d3d06ea7e
 
 # general
 
+[EN] CityEngine: An Introduction to Rule-Based Modeling 
+https://link.springer.com/content/pdf/10.1007%2F978-981-15-8983-6_35.pdf
+
 [EN] SIMULATING, RECONSTRUCTING, AND ROUTING METROPOLITAN-SCALE TRAFFIC by David Wilkie
 https://cdr.lib.unc.edu/downloads/4b29b692z
 
